@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+
+  "name": "Hitchweb",
+  "short_name": "HW",
+  "description": "Talk to people, who are on the same site as you are in. Meet with the people of similar interests.",
+
+  "version": "0.0.1",
+
+  "icons": {
+    "16": "/assets/images/logo/16.png",
+    "32": "/assets/images/logo/32.png",
+    "48": "/assets/images/logo/48.png",
+    "128": "/assets/images/logo/128.png"
+  },
+
+  "action": {
+    "default_icon": {
+      "16": "/assets/images/logo/16.png",
+      "24": "/assets/images/logo/32.png",
+      "32": "/assets/images/logo/32.png"
+    },
+    "default_title": "Open Hitchweb"
+  },
+
+  "author": "Rajesh Joshi",
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": [],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
