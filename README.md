@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hitchweb.netlify.app"><img src="./assets/images/logo/128.png" alt="Hitchweb"></a>
+  <a href="https://hitchweb.netlify.app"><img src="https://raw.githubusercontent.com/RajeshJ3/hitchweb/main/assets/images/logo/128.png" alt="Hitchweb"></a>
 </p>
 <p align="center">
     💬🔊 <em>Talk to people, on the same site.</em> 🌐
