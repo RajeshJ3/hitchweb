@@ -9,6 +9,10 @@
 
 **Source Code**: <a href="https://github.com/rajeshj3/hitchweb" target="_blank">https://github.com/rajeshj3/hitchweb</a>
 
+**Extension**: <a href="https://chrome.google.com/webstore/detail/hitchweb/bbpnmmlldlnbkoelibmceelheacmbhme" target="_blank">https://chrome.google.com/webstore/detail/hitchweb/bbpnmmlldlnbkoelibmceelheacmbhme</a>
+
+**Web Version**: <a href="https://hitchweb.netlify.app/" target="_blank">https://hitchweb.netlify.app/</a>
+
 ---
 
 _Talk to people, who are on the same site as you are in. Meet with the people of similar interests._
